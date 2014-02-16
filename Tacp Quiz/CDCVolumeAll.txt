@@ -1,0 +1,1853 @@
+How many characters, not including prefixes or suffixes, make up an Air Force Specialty Code (AFSC)?
+Five
+Three
+Four
+Six
+* Five
+
+Which Air Force Specialty Code (AFSC) indicates the actual position you are assgined to in your unit?
+Primary
+Duty
+Control
+Temporary
+* Duty
+
+"Which Air Force Specialty Code (AFSC) is used as a management tool for assignments against authorized manning requirements?
+Control
+Primary
+Duty
+Temporary
+* Duty
+
+Which documents are used to decide which task and knowledge items are trained in the initial skills resident course?
+OSR and on-the-job training (OJT)
+TRA and CFETP
+OJT and career field education and training plan (CFETP)
+Occupational Survey Report (OSR) and Training Requirements Analysis (TRA)
+* Occupational Survey Report (OSR) and Training Requirements Analysis (TRA)
+
+What is the focus of on-the-job training (OJT)?
+Provide what you need to know to do your job
+Support the organization's mission
+Provide an opportunity to attend training
+Provide the resources to meet the training requirements
+* Provide what you need to know to do your job
+
+On-the-job (OJT) is also known as what type of training?
+One-on-one
+Over-the-shoulder
+Formalized
+Virtual and interactive
+* Over-the-shoulder
+
+What is the Air Force's goal pertaining to the Internet?
+Provide minimum availability at acceptable levels for official business
+Provide secure availability at acceptable levels for official business
+Provide maximum availability at acceptable levels for official business
+Eliminate spy-ware to protect official business
+* Provide maximum availability at acceptable levels for official business
+
+The Internet provides all of the following except a
+quick and efficient way of disseminating information to the public
+way of distributing information throughout the Air Force
+way of accessing information from a variety of sources
+secure means of communication
+* secure means of communication
+
+Which of the following makes monitoring or reading another individual's email messages illegal?
+Federal Wiretap Law
+Unit system administrator
+Operations security (OPSEC)
+Non-secure Internet Protocol Router Network
+* Federal Wiretap Law
+
+Who in your unit establishes an email account for you?
+Security manager
+Work group manager
+Computer systems manager
+Information management manager
+* Work group manager
+
+Which type of storage device has a small amount of storage space?
+External
+Internal
+Flash
+Shared
+* Flash
+
+What are the four lines called that enclose the body of a standard military map?
+Latitude
+Longitude
+Set
+Neat
+* Neat
+
+Lines of Latitude progress north and south of
+the international dateline
+Greenwich, England
+the prime meridian
+the Equator
+* the Equator
+
+The point where 180 degrees East longitude meets 180 degrees West longitude is called what?
+Greenwich, England
+The international dateline
+The prime meridian
+The Equator
+* The international dateline
+
+How many degrees is each line of latitude or longitude broken down into?
+45
+90
+180
+360
+* 360
+
+The first major breakdown of the Universal Transverse Mercator (UTM) grid is the division of each zone into areas of 6 degrees by 8 degrees and
+6 degrees by 8 degrees
+6 degrees by 10 degrees
+6 degrees by 12 degrees
+6 degrees by 14 degrees
+* 6 degrees by 12 degrees
+
+What is the combination of the zone number and the row letter called?
+Grid zone designation
+Grid zone identifier
+100,000 meter square identifier
+100,000 meter square designation
+* Grid zone designation
+
+On a military map, what are the two digits printed in large type that appear at intervals along the grid line?
+The central meridian
+The principal digits
+False coordinates
+Reference numbers
+* The principal digits
+
+A map grid coordinate scale is designed for the express purpose of
+plotting distance
+measuring distance
+plotting grid coordinates
+measuring coordinates
+* plotting grid coordinates
+
+On the 1:250,000 scale in the military grid reference system, the 1,000 meter grid block is divided into 10 major subdivisions equal to how many meters each?
+100
+1,000
+10,000
+100,000
+* 100
+
+In the military grid reference system, the 1:5-,000 scale subdivides the 1,000-meter grid block into 10 major subdivisions equal to how many meters each?
+100
+1,000
+10,000
+100,000
+* 100
+
+Which map grid coordinate is accurate to within one meter?
+1484
+142841
+14178409
+1416884087
+*1416884087
+
+What does the Global Area Reference System (GARS) provide over other geographical grid reference systems?
+Single military service use
+Precision for employing guided weapons
+Common joint service reference system
+Complex language for effective communications
+* Common joint service reference system
+
+The Global Area Reference System (GARS) was the first global reference system developed for
+navigating
+executing close air support
+detailed targeting
+deconflicting
+* deconflicting
+
+What number and letter combination, in sequence, does the Global Area Reference System (GARS) use to identify an area anywhere in the world?
+Three numbers and two letters
+Two numbers and three letters
+Three letters and two numbers
+Two letters and three numbers
+* Three numbers and two letters
+
+The Global Area Reference System (GARS) uses a base line that starts at the
+North Pole and Prime Meridian
+South Pole and International Dateline
+South Pole and Prime Meridian
+North Pole and International Dateline
+* South Pole and International Dateline
+
+Which letter is omitted in the latitudinal band (northwards) of the Global Area Reference System (GARS)?
+X
+J
+I
+Y
+* I
+
+What represents the age of the topographical ma, in relation to other editions of the same map, and the agency responsible for its production?
+Sheet name
+Sheet number
+Series number
+Edition number
+* Edition number
+
+The basis for converting topographic map distance to ground distance is the
+bar scale
+grid note
+contour interval
+Edition number
+* bar scale
+
+On a topographical map, where do you find the information pertaining to the grid system used, the interval lines, and the number of digits omitted from the grid values?
+Legend
+Grid note
+Special notes
+Grid reference box
+* Grid note
+
+On a topographical map, you find information for composing a grid reference in the
+Special notes
+Declination diagram
+Grid reference box
+Legend
+* Grid reference box
+
+Where on a topographical map would you find information on the angular relationships of true north, grid north, and magnetic north?
+Bar scale
+Legend
+Special notes
+Declination diagram
+* Declination diagram
+
+What color is used on a topographical map to indicate most cultural or manmade features?
+Black
+Brown
+Orange
+Red
+* Black
+
+What color is used for joint operations graphics on a topographical map, to indicate air-ground operations?
+Brown
+Purple
+Green
+Red
+* Purple
+
+You are using topographic symbold on a map and determine that the width of a road is exagerated. When this happens it means that the
+road is reduced in size around the feature to preserve its location
+feature is reduced in size to preserve the width of the road
+feature moves from its true position to preserve its relation to the road
+road is offset around the feature next to the road
+* feature moves from its true position to preserve its relation to the road
+
+What type of terrain/relief feature on a topographic map slopes down in all directions?
+Ridge
+Draw
+Valley
+Hill
+* Hill
+
+An example of the detailed information the Joint Operations Graphic (JOG) air series maps contain is
+radio ranges
+cities
+water ways
+road systems
+* radio ranges
+
+What does the large, open-faced figure in each 15-minute quadrangle of a Joint Air Operations (JOG) air map represent?
+Location of the nearest airfield
+Highest terrain elevation
+Coordinates for nearest airfield
+Location of the highest terrain elevation
+* Highest terrain elevation
+
+What type of information does the Joint Operations Graphic (JOG) ground series map identify?
+Radio towers only
+Improvised air facilities
+Permanent air facilities
+Radio towers and ranges
+* Permanent air facilities
+
+How many parts, on a tactical map, do military symbols generally consist of?
+Four
+Five
+Six
+Seven
+* Six
+
+In relation to the basic symbol, where would you place the unit size symbol on a tactical map?
+Above
+Below
+Left
+Right
+* Above
+
+On a tactical map, place higher echelons of command
+above the basic symbol
+to the right of the basic symbol
+to the left of the basic symbol
+below the basic symbol
+* to the right of the basic symbol
+
+On a tactical map, military symbols represented in yellow mean
+enemy units, installations, equipment, and activities
+friendly or enemy manmade obstacles
+friendly or enemy areas of chemical, biological, or radiological contamination
+friendly units, installations, equipment, and activities
+* friendly or enemy areas of chemical, biological, or radiological contamination
+
+Military symbols represented in green on a tactical map mean
+friendly or enemy areas of chemical, biological, or radiological contamination
+friendly units, installations, equipment and activities
+enemy units, installations, equipment, and activities
+friendly or enemy manmade obstacles
+* friendly or enemy manmade obstacles
+
+To avoid compass readings interference when using lensatic compass, how many meters from a tank is the suggested safe operating distance?
+18
+55
+10
+5
+* 18
+
+How many meters from barbed wire is the suggested safe operating distance, while using a lensatic compass?
+55
+10
+18
+5
+* 10
+
+What map feature enables you to orient a map properly and shows the interrelationship of magnetic, grid, and true north?
+Military plotting diagram
+Grid reference diagram
+Declination diagram
+Military lensatic compass
+* Declination diagram
+
+When orienting a map, what is an imaginary line from any surface position to the North Pole?
+Magnetic north
+Grid north
+Declination
+True north
+* True north
+
+When orienting a map, the direction of the north magnetic pole indicated by the north-seeking needle of a magnetic instrument is the
+magnetic north
+true north
+declination
+grid north
+* magnetic north
+
+When orienting a map, true north is symbolized by
+the letters GN or Y
+a star
+a diamond
+a half arrowhead
+* a star
+
+When using a compass for navigation, a pace count takes you approximately how many paces to reach 100 meters?
+40 to 70
+50 to 80
+60 to 90
+70 to 100
+* 50 to 80
+
+When navigating with a compass, the traingulation of an unknown point from at least two or three known points on a map is called a/an
+deliberate offset
+resection
+bisection
+intersection
+* intersection
+
+When using a compass to navigate, you can locate your unknown point by sighting on two or more known features using
+resection
+bisection
+intersection
+deliberate offset
+* resection
+
+At 1,000 meters each degree of deliberate offset moves you how many meters to the left or right of an object?
+6
+12
+18
+24
+* 18
+
+Which factor of good microphone techniques deals with the extent of background noise?
+Pronunciation
+Rate of speech
+Loudness
+Patterns of speech
+* Loudness
+
+When the receiving radio operator gets a loud signal, it means the signal
+is more readable
+is easier to tune
+requires less adjustment on the audio gain
+is not always the most readable
+* is not always the most readable
+
+To speak into a microphone, hold it
+about half an inch from your lips and speak at a normal level
+directly against your lips and speak at a normal level
+about 2 inches from your mouth and speak clearly
+* about half an inch from your lips and speak at a normal level
+
+All of the following are points you should follow for effective Voice communication except
+speaking slowly enough to pronounce each word clearly and distinctly
+pausing slightly between words so the listener has time to write down the message
+speaking slowly enough for the listener to hear and understand all the words
+pausing slightly between ideas, but do not say 'uh' or 'er' to fill in the pauses
+* pausing slightly between words so the listener has time to write down the message
+
+Radio messages transmitted idea by idea rather than word by word
+requires a higher volume setting
+is more likely to be garbled
+is more easily understood
+should be avoided
+* is more easily understood
+
+You transmit a lengthy message containing encoded groups. How many groups should you transmit before making a short break in transmission?
+5
+10
+15
+20
+* 10
+
+In which time zone is the Greenwich Meridian located?
+Z
+D
+M
+Y
+* Z
+
+When you are working eastward from Greenwich, local time gets
+earlier by 1 hour
+later by 1 hour
+earlier by 2 hours
+later by 2 hours
+* later by 1 hour
+
+What letter is omitted from the alphabetized time zones A through M?
+L
+I
+J
+M
+* J
+
+Which radio transmission practice is specifically forbidden?
+Excessive transmitter power use
+Transmitting at speeds beyond the capability of the receiving operators
+Excessive time consumed in tuning, changing frequencies, and adjusting equipment
+Unofficial conversation between operators
+* Unofficial conversation between operators
+
+The authority to cancel an emergency radio silence lies with the
+authority that imposed it
+communications officer
+ground commander
+signals officer
+* authority that imposed it
+
+Two authorized methods of authenticating are 'challenge and reply' and
+decrypt
+transmission
+encrypt
+encode* transmission
+
+What statement, if any, must appear in the encoding transmission to prevent confusion with eight-digit coordinates and grid zone designators?
+Eight-digit coordinates included
+Six-digit coordinates included
+Grid zone letters included
+No statement is required
+* Grid zone letters included
+
+Radio deception that simulates units, installations, and activities is called
+Manipulative
+Intrusive
+Imitative
+Simulative
+* Simulative
+
+Which basic jamming technique consists of a narrow signal intended to disrupt one specific frequency or channel?
+Spot
+Barrage
+Constant
+Sweepthrough
+* Spot
+
+Which basic jamming technique consists of a wideband signal intended to cause chaos on a wideband of frequencies or adjacent channels?
+Spot
+Barrage
+Constant
+Sweepthrough
+* Barrage
+
+Which basic jamming technique consists of a signal concentrated on a single frequency only a short time?
+Constant
+Spot
+Sweepthrough
+Barrage
+* Sweepthrough
+
+Which modulating jamming signal sounds like an aircraft engine?
+Spark
+Random noise
+Stepped tones
+Sweepthrough
+* Sweepthrough
+
+Which modulating jamming technique is the most difficult to distinguish?
+Random noise
+Spark
+Stepped tones
+Sweepthrough
+* Random noise
+
+What are the two types of field meaconing, intrusion, jamming, and interference (MIJI) reports?
+First and second
+Initial and follow up
+Initial and final
+First and follow up
+* Initial and follow up
+
+Within how many hours of the initial meaconing, intrusion, jamming, and interference (MIJI report must you submit a complete follow up report containing all details of the incident?
+6
+8
+12
+24
+* 12
+
+The physical size, construction details, and appearance of an antenna primarily depend on
+how many stations will be on the same frequency
+the amount of radiation energy from the radio
+the antenna location
+how the antenna is used
+* how the antenna is used
+
+What should you do if you are in a room beside an electrical outlet with degraded communications?
+Change frequencies
+Move the radio to another room
+Move radio to the roof
+Move the radio to another location in the same room
+* Move the radio to another location in the same room
+
+The more efficient an antenna is for transmitting, the more efficient it will be for receiving. Which antenna characteristic does this describe?
+Resonance
+Reciprocity
+Take off angle
+Gain
+* Reciprocity
+
+The radio ground-wave component affected by the conductivity and dielectric constant of the Earth is called
+direct
+sky
+surface
+ground-reflected
+* surface
+
+The zone where no usable signal is received from a given transmitting antenna is called
+Blank
+Dead
+Hop
+Skip
+* Skip
+
+How many distinct layers make up the ionosphere?
+Three
+Four
+Five
+Six
+* Four
+
+Which radio frequency (RF) range uses the ground wave for communications from 15 to 400 miles and the sky wave for reception at distances up to 8,000 miles?
+Low
+Medium
+High
+Ultra-high
+* Medium
+
+Which radio frequency (RF) range uses the ground wave for communicating over great distances?
+Low
+Medium
+High
+Ultra-high
+* Low
+
+Which radio frequency (RF) range uses little ground wabe for communcations with only slight refraction of the sky waves?"
+Low
+Medium
+High
+Ultra-high
+* High
+
+If the lines of electric force are prallel to the surface of the Earth, the radio wave is polarized
+vertically
+elliptically
+horizontally
+directionally
+* vertically
+
+Which type of antenna is least likely to pick up manmade interference?
+Vertical
+Horizontal
+Blade
+Whip
+* Horizontal
+
+Earth ground is a good conductor for what type of radio frequency (RF)?"
+Low and high
+Medium and high
+Low and medium
+Low and high
+* Low and medium
+
+When properly repairing a solid core whip antenna, do not overlap the broken ends by more than a few inches because you can degrade the antennas
+insulation
+magnetic field
+polarization
+electrical length
+* electrical length
+
+What determines the angle of radiation required for both transmitting and receiving antennas?
+Distance between stations
+Antenna gain required
+Handling capability
+Physical size
+* Distance between stations
+
+By using a high gain antenna at transmitter and receiver sites, you reduce
+circuit loss
+transmitter power
+electrical antenna length
+physical antenna length
+* transmitter power
+
+What type of injury can you get from high levels of radio frequency (RF) energy sent from an antenna?
+Cell damage
+Nerve damage
+Radiation burns
+Electrical burns
+* Radiation burns
+
+What type of equipment is used with the whip antenna?
+Set
+Unchanging
+Fixed
+Portable
+* Portable
+
+How does a vehicle affect the operation of a mounted whip antenna?
+Provides a ground
+Obstructs the radiated circuit
+Provides proper take-off angle
+Reduces the radiation efficiency
+* Provides a ground
+
+For best results, at least how many feet above the ground should you place the ends of the inverted Vee antenna?
+2
+4
+6
+8
+* 6
+
+Use the near verticle incidence sky wave (NVIS) antenna within megahertz (MHz) frequencies of
+2.0 to 14.0
+2.0 to 29.0
+14.0 to 24.9
+14.0 to 29.9
+* 2.0 to 29.0
+
+What is the most commonly used field expediently constructed antenna?
+Vee
+Inverted L
+Inverted Vee
+Half wave dipole
+* Half wave dipole
+
+Which field expedient antenna is equipped with a quarter-wave vertical section and a half-wave horizontal section
+Inverted L
+Inverted Vee
+Sloping Vee
+Half wave dipole
+* Inverted L
+
+When terminated, what is the directivity of the long wire antenna?
+Bi-directional
+Uni-directional
+Directional
+Omni-directional
+* Uni-directional
+
+Where on the Vee antenna would you find the maximum radiation pattern?
+Rear or point
+Right side
+Opening
+Left side
+* Opening
+
+What is the directivity of the Vee antenna?
+Bi-directional
+Omni-directional
+Directional
+Uni-directional
+* Uni-directional
+
+Tactical air control party (TACP) members operate at their aligned Army echelon which can range from
+battalion to corps
+company to division
+platoon to brigade
+squad to battalion
+* battalion to corps
+
+Which is the Army's highest echelon that trains and operates as a combined arms team?
+Corps
+Divison
+Brigade
+Battalion
+* Divison
+
+Which type of Army division is primarily a powerful offensive force?
+Infantry
+Airborne
+Armored
+Mechanized infantry
+* Armored
+
+Which Army unit has the mission to close with the enemy using available firepower and controlled maneuvers?
+Division
+Corps
+Battalion
+Brigade
+* Brigade
+
+Which Army command staff member is responsible for all fires on surface targets to include air support?
+Fire support coordinator (FSCOORD)
+G-2 / S-2
+G-3 / S-3
+G-4 / S-4 Air
+* Fire support coordinator (FSCOORD)
+
+Which Army command staff member is responsible for planning and coordinating fire support and suppression of enemy air defenses?
+Fire support coordinator (FSCOORD)
+G-2 / S-2
+G-3 / S-3
+G-4 / S-4 Air
+* Fire support coordinator (FSCOORD)
+
+Which Army echelon has a dedicated Army airspace command and control (A2C2)?
+Battalion
+Brigade
+Division
+Field Army
+* Division
+
+Which Army liaison officer supports the combat reporting center (CRC) and handles real-time Army airspace management issues?
+Ground liaison officer (GLO)
+Air defense liaison officer
+Battlefield coordination element officer
+Airspace management liaison officer
+* Airspace management liaison officer
+
+Which Army liaison officer maintains capabilities, locations, and status of air defense artillery (ADA) systems?
+Air defense liaison officer
+Ground liaison officer (GLO)
+Air reconnaissance liaison officer
+Battlefield coordination element officer
+* Air defense liaison officer
+
+Which Army liaison officer advises the Air Force weapons assignment officer on employment of air defense artillery (ADA)
+Ground liaison officer (GLO)
+Air defense liaison officer
+Air reconnaissance liaison officer
+Battlefield coordination element officer
+* Air defense liaison officer
+
+How does the Air Force organize its forces overseas?
+Certain function
+Specific mission
+Geographical
+Administrative
+* Geographical
+
+How many major commands (MAJCOM) does the Air Force have to accomplish its mission?
+Three
+Five
+Seven
+Nine
+* Nine
+
+How many wing commands are found in the Air Force structure?
+One
+Two
+Three
+Four
+* Three
+
+Which theater air control system (TACS) element is the wing commander's command and control element?
+Air operations center (AOC)
+Wing operations center (WOC)
+Air support operations center (ASOC)
+Tactical air control party (TACP)
+* Wing operations center (WOC)
+
+In garrison, tactical air control party (TACP), falls under the operational control of what unit?
+Aligned Army unit
+Assigned Army unit
+Air support operations center (ASOC)
+Air support operations group (ASOG)
+* Air support operations group (ASOG)
+
+Tactical air control party (TACP) operations fall into what two general categories?
+Control and communications
+Control and direction
+Liaison and control
+Liaison and communications
+* Liaison and control
+
+In tactical air control party (TACP), which member integrates air support sorties with the Army unit scheme of maneuver?
+Air liaison officer (ALO)
+Air mobility liaison officer (AMLO)
+Joint terminal attack controller (JTAC)
+Tactical air command and control specialist (TACCS)
+* Air liaison officer (ALO)
+
+In a tactical air control party (TACP), which member may conduct drop zone operations when drop zone support team is not available?
+Air liaison officer (ALO)
+Air mobility liaison officer (AMLO)
+Joint terminal attack controller (JTAC)
+Tactical air command and control specialist (TACCS)
+* Air mobility liaison officer (AMLO)
+
+Which Army echelon is an air support operations center (ASOC) normally collocated with?
+Division
+Field Army
+Corps
+Brigade
+* Corps
+
+Who does the corps air liaison officer (ALO) or air support operation center (ASOC) director report to?
+The air operation center's director or commander
+The wing operations center's director or commander
+The land component commander
+The corps commander
+* The air operation center's director or commander
+
+Which radio net is used by the air support operations center (ASOC) to interface with other theater air control system (TACS) units?
+Command and control net
+Tactical air direction net
+Tactical air control net
+In-flight report net
+* Command and control net
+
+Which radio net is used to direct and control aircraft engaged in theater air support?
+Command and control net
+Tactical air direction net
+Tactical air control net
+In-flight report net
+* In-flight report net
+
+Which theater air control system (TACS) element coordinates strategic operations within the theater airlift management system and collocates with the Air operations center (AOC)?
+Tanker airlift control center (TACC)
+Control and reporting center (CRC)
+Air mobility element (AME)
+Tanker airlift control element (TALCE)
+* Air mobility element (AME)
+
+Which theater air control system (TACS) element provides near-real-time data to efficiently execute the battle plan?
+Forward air controller (airborne) (FAC[A])
+Tactical air coordinator (airborne) (TAC[A])
+Airborne warning and control system (AWACS)
+Joint surveillance, target attack radar system (JSTARS)
+* Joint surveillance, target attack radar system (JSTARS)
+
+How many divisions are found in the air operations center (AOC)?
+Four
+Five
+Six
+Seven
+* Five
+
+Normally, how many hours will an air tasking order cover?
+12
+24
+48
+72
+* 24
+
+Which document from the air operations center (AOC) provides operators critical guidance on how to execute the air tasking order (ATO)?
+Air tasking order
+Airspace control order
+Special instructions
+Operations order
+* Special instructions
+
+The battlefield coordination detachment (BCD) is the land component commander's (LCC) liaison and collocated with the
+air support operations center (ASOC)
+wing operations center (WOC)
+airlift coordination cell (ALCC)
+air operations center (AOC)
+* air operations center (AOC)
+
+How many sections are in the battlefield coordination detachment (BCD) structure?
+Four
+Five
+Six
+Seven
+* Six
+
+Which section within the battlefield coordination detachment (BCD) ensures the synchronization between the current air operations and the current Army operations?
+Airlift
+Operations
+Plans
+Intelligence
+* Operations
+
+Which section within the battlefield coordination detachment (BCD) exchanges the information with the control and reporting center (CRC), land component headquarters, and air defense artillery (ADA) headquarters?
+Plans
+Air defense
+Operations
+Intelligence
+* Operations
+
+Which section within the battlefield coordination detachment (BCD) maintains identification codes of all Army forces (ARFOR) airspace users including fire support and unmanned aerial vehicle (UAV)?
+Plans
+Airlift
+Intelligence
+Airspace management
+* Airspace management
+
+What is the function of intelligence, surveillance, and reconnaissance (ISR)?
+Acquiring and processing information
+Acquiring and identifying information
+Planning and identifying information
+Planning and processing information
+* Acquiring and processing information
+
+The intelligence, surveillance, and reconnaissance (ISR) term 'tasking authority' simply means who
+can operate the system
+owns the system
+uses the system
+flies the system
+* owns the system
+
+What is the name of the critical pieces of intelligence that a commander must know about the enemy and the operational environment by a particular time in order to plan and execute a successful mission?
+Information requirements
+Request for information (RIF)
+Priority intelligence requirements (PIR)
+Essential intelligence requirements
+* Priority intelligence requirements (PIR)
+
+What is the name of any specific time-sensitive, ad hoc requirement for intelligence information or products to support an ongoing operation or crisis not necessarily related to the standing requirements?
+Priority intelligence requirements
+Essential intelligence requirements
+Information requirements
+Requests for information (RIF)
+* Requests for information (RIF)
+
+The science portion of command deals with the study and method of a body of facts and processes based on principles from
+the physical or material world
+specific skill
+decision-making and leadership
+responsibility, accountability, and delegation
+* The physical or material world
+
+What should leadership provide to influence their people in order to accomplish the mission?
+Command, authority and decision
+Purpose, direction and motivation
+Control, command and decision
+Communication, structure and information
+* Purpose, direction and motivation
+
+What are the elements that make up the control portion of the command and control (C2) system?
+Authority, decision-making, and leadership
+Authority, decision-making, and structure
+Information, communication, and structure
+Information, communication, and leadership
+* Information, communication, and structure
+
+How many types of suppression of enemy air defenses (SEAD) are there?
+Two
+Four
+Five
+Six
+* Two
+
+What do planners consider if an operation exposes friendly aircraft to an enemy's air defense?
+The availablility and capability of support of enemy air defense (SEAD) capable systems
+The commander's guidance and intent
+The importance of the mission's objective
+Rules of engagement (ROE)
+* The availablility and capability of support of enemy air defense (SEAD) capable systems
+
+What are the objectives of electronic warfare (EW)?
+Control and exploit only
+Control, exploit, and enhance
+Control the means of attack
+Control the means of offense and defensive operations
+* Control, exploit, and enhance
+
+For offensive electronic warfare (EW), what is required for a more sophisticated jamming?
+More power in the jammer
+Broader spectrum in the jammer
+More intelligence in the jammer
+More directed energy in jammer
+* More intelligence in the jammer
+
+Which type of targets is the focus for joint tactics, techniques, and procedures (TTP)
+Enemy artillery units
+Enemy armored vehicles
+Traditional targets to the enemy
+High importance to the enemy
+* High importance to the enemy
+
+Which term of joint tactics, techniques, and procedures (TTP) consists of operations to divert, disrupt, delay, or destroy the enemy's surface potential before it can be used effectively against friendly forces?
+Air interdiction (AI)
+Battlefield air interdiction
+Close air support (CAS)
+Combat air patrol
+Air interdiction (AI)
+
+Air interdiction (AI) attack on which type of target interferes with an adversary's ability to mass, maneuver, withdraw, supply, and reinforce surface forces?
+Personnel
+Command and control systems
+Material
+Logistics
+* Command and control systems
+
+In order for close air support (CAS) to be effective, all of the following conditions are required except for
+train and develop skills
+effective command and control (C2)
+inauspicious environmental conditions
+streamlined and flexible procedures
+* inauspicious environmental conditions
+
+What effects can a commander produce by orchestrating close air support (CAS) with other surface and air operations?
+National
+Strategic
+Tactical
+Operational
+* Operational
+
+What ensures the execution of close air support (CAS) is on the right target and reduces the possibility of fratricide?
+Terminal control
+Streamlined procedures
+Effective planning
+Detailed integration
+* Terminal control
+
+Which battlefield operation requires special care to identify friendly forces and ensure that they are not subject to direct attack or weapons effects from close air support (CAS) ordnance?
+Deep operations
+Rear operations
+Close operations
+Offensive operations
+* Rear operations
+
+Which battlefield operation with close air support (CAS) gives the maneuver force commander freedom of movement?
+Close operations
+Offensive operations
+Deep operations
+Rear operations
+* Offensive operations
+
+Which battlefield operation with close air support (CAS) can cause the enemy to deploy prematurely?
+Offensive operations
+Deep operations
+Rear operations
+Defensive operations
+* Defensive operations
+
+The ability to mass joint fire support at a decisive point and to provide the supporting fires needed to achieve the commander's objectives relies on
+coherent planning
+terminal control
+detailed integration
+streamlined procedures
+* coherent planning
+
+What channel does a request for preplanned close air support (CAS) mission flow through up to higher echelons?
+G/S-2
+G/S-3 Air
+Fire support coordination element
+Corps air liaison officer
+* Fire support coordination element
+
+Preplanned close air support (CAS) requests are categorized as either scheduled or
+alerted
+ready
+on-call
+standby
+* on-call
+
+What information can 'on-call' requests for close air support (CAS) specify?
+Ground or orbit alert
+Ready or ground alert
+Airborne or ready alert
+Airborne or ground alert
+* Airborne or ground alert
+
+Which channel does the mission data for preplanned requests funnel down through back to the requestor?
+Ground maneuver forces channel
+The G/S-2 channel
+The tactical air control party's (TACP) channel
+The air support operations center's (ASOC) channel
+* Ground maneuver forces channel
+
+What advice does the corps air liaison officer (ALO) give to the corps G-3 / S-3 Air if on-call close air support is unavailable
+Forward the request to the joint force commander (JFC) to the air operations center (AOC)
+Forward the request to the battlefield coordination detachment (BCD) at the AOC
+Forward the request to the combat intelligence division (CID) to the AOC
+Forward the request to the land component commander (LCC) to the AOC
+* Forward the request to the battlefield coordination detachment (BCD) at the AOC
+
+Who allocates close air support (CAS) and decides whether to divert other CAS missions to the corps requesting additional missions?
+The joint force commander (JFC)
+The senior air liaison officer (ALO)
+The land component commander (LCC)
+The joint air component commander (JFACC)
+* The land component commander (LCC)
+
+How do commanders take full advantage of the battlefield opportunities to maintain the momentum of an offesnive action or reduce operational and tactical risk?
+By maneuver of forces
+By massing firepower
+By dispersing firepower
+By prioritizing firepower
+* By massing firepower
+
+Which planning consideration within the mission, enemy troops, terrain, and time (METT-T), determines which close air support (CAS) will be employed?
+Enemy
+Time
+Troops
+Mission
+* Enemy
+
+Which planning consideration within the mission, enemy, troops, terrain, and time (METT-T), can limit communications and visual line of sight (LOS) for identifying the target and/or aircraft?
+Time
+Terrain
+Enemy
+Mission
+* Terrain
+
+What is the basic consideration of close air support (CAS) missions involving laser-guided weapons (LGW) besides coordination of laser-compatible designators and ornance?
+Threats in the area
+Skill of the operator
+Attack parameters
+Type of target
+* Attack parameters
+
+What is the primary or standard map datum in use today?
+WGS-79
+WGS-80
+WGS-82
+WGS-84
+* WGS-84
+
+How many grid coordinates digits make up the standard for target location while using the military grid reference system (MGRS)?
+Six
+Eight
+Ten
+Twelve
+* Six
+
+Many global positioning system (GPS) receivers can compute quick, accurate coordinate conversions, provided the
+batteries are fully charged
+users are properly trained
+proper codes are installed
+satelites are on and working
+* users are properly trained
+
+Which condition for effective close air support (CAS) permits CAS to function more effectively and denies that same advantage to the enemy?
+Command and control (C2)
+Prompt response
+Air superiority
+Suppresion of enemy air defenses (SEAD)
+* Air superiority
+
+Which condition for effective close air support (CAS) allows a commander to exploit fleeting battlefield opportunities?
+Suppression of enemy air defense (SEAD)
+Air superiority
+Command and control (C2)
+Prompt response
+* Prompt response
+
+Which fire support coordination measure (FSCM) is established and adjusted by the land forces commander, usually at the corps echelon?
+Fire support coordination line (FSCL)
+Restrictive fire line
+Coordinated fire line
+Permissive fire coordination line
+* Fire support coordination line (FSCL)
+
+Which fire support coordination measure (FSCM) allows conventional or improved conventional indirect fire to engage targets any time within the zone of the establishing headquarters without additional coordination?
+Restrictive fire line
+Coordinated fire line
+Fire support coordination line (FSCL)
+Air support fire coordination line
+* Coordinated fire line
+
+Which fire support coordination measure (FSCM) prohibits all fires into an area without prior clearance?
+Restrictive fire area
+Free-fire area
+No-fire area
+Airspace coordination area
+* No-fire area
+
+Fratricide is unwanted, undesireable and what?
+inevitable
+unavoidable
+indispensible
+avoidable
+* avoidable
+
+Which term employs the concept that describes the unintended physical damage to any non-combatant person(s), property, or environment(s) occuring incidental to military operations?
+Collateral damage
+Fratricide
+Rules of engagement (ROE)
+Law of armed conflict (LOAC)
+* Collateral damage
+
+Which type of weapon is not applicable for estimating the damage from employing under the collateral damage estimates (CDE)?
+Kinetic
+Non-kinetic
+Retarded munitions
+Conventional munitions
+* Non-kinetic
+
+Which term describes the capability to rapidly and accurately identify friendly, enemy and neutral forces, manage and control the battle space, and minimize to risk of fratricide?
+Situational awareness (SA)
+Target identification (TID)
+Combat identification (CID)
+Positive identification (PID)
+* Combat identification (CID)
+
+Which factor or condtion of positive identification (PID) identifies the capacity of a person to process information, which makes it difficult to maintain situational awareness (SA) in a complex environment?
+Environmental condition
+Operational factor
+Physical factor
+Human factor
+* Human factor
+
+Which factor or condition of positive identification (PID) addresses a certain type of knowledge that is difficult and time consuming to acquire?
+Human
+Physical
+State of equipment
+Operational
+* Operational
+
+Within how many meters of the target should a visual mark impact near the target to ensure a successful attack?
+50
+100
+150
+200
+* 100
+
+Within how many seconds prior to close air support (CAS) ordnance impact should the target marks from indirect fire munitions appear?
+10 to 25
+20 to 35
+30 to 45
+40 to 55
+* 30 to 45
+
+Within how many meters of the target should a target mark from indirect fire be from the target to be efficient enough to direct close air support (CAS) aircraft?
+100
+200
+300
+400
+* 300
+
+How many types of categories of close air support (CAS) missions are there?
+Three
+Four
+Five
+Six
+* Three
+
+Who does the responsibility for expenditure of ordnance rests with?
+Lead aircraft pilot
+Maneuver force commander
+Terminal attack controller
+Fire support coordinator
+* Maneuver force commander
+
+What is the bomb damage assessment (BDA) used for?
+Updating the enemy order of battle
+Tallying for targets destroyed by aircraft
+Updating the maps with locations of destroyed vehicles
+Tallying of targets destroyed by the terminal attack controller
+* Updating the enemy order of battle
+
+What are the four characteristics of a bomb
+Body, tail, fusing, and fragmentation pattern
+Body, tail, fusing, and blast pattern
+Body, tail, fusing, and guidance
+Blast, fragmentation, penetration, and incendiary
+* Body, tail, fusing, and guidance
+
+How do the pilots aim rockets at a target?
+By pointing the nose of the aircraft at the target
+By pointing the rocket pod at the target
+By guiding on a laser code
+By guiding on an infrared beam
+* By pointing the nose of the aircraft at the target
+
+What is the minimum number of satelites the joint direct attack munition (JDAM) must acquire for mid-course guidance?
+Two
+Three
+Four
+Five
+* Four
+
+What is the nomenclature of the MK-84, 2,000-pound bomb, when converted into a joint direct attack munition (JDAM)?
+GBU-39
+GBU-38
+GBU-31
+GBU-32
+* GBU-31
+
+Which homing system has a camera mounted in the nose of the qeapon aligned to the axis of that weapon?
+Infrared
+Laser guidance
+Anti-radiation
+Television
+* Television
+
+Which homing system is not night capable or under conditions of low visibility, and is not useable against camouflage targets?
+Television
+Laser guidance
+Infrared
+Anti-radiation
+* Television
+
+The SA-8 and Roland are examples of which surface-to-air missile (SAM) system?
+Man-portable air defense system
+Short-range air defense missile system
+Medium-range air defense missile system
+Long-range air defense missile system
+Short-range air defense missile system
+
+Which type of missiles is characterized as fixed sites
+Man-portable air defense system
+Short-range air defense missile system
+Medium-range air defense missile system
+Long-range air defense missile system
+* Long-range air defense missile system
+
+Why are man-portable air defense systems (MANPADS) and short-range air defense (SHORAD) systems your primary threat when conducting a close air support (CAS) mission?
+These systems are highly accurate
+These systems are available to every enemy soldier
+These systems are cheap to make and therefore plentiful
+These systems are found in the forward deployed area
+* These systems are found in the forward deployed area
+
+Which system uses a fire direction and control method of continuous fire, aided by observing and correcting the flight path of the tracer rounds into the target?
+Antiaircraft machine guns
+Light antiaircraft artillery
+Heavy antiaircraft artillery
+Medium antiaircraft artillery
+* Antiaircraft machine guns
+
+Which antiaircraft artillery system has a caliber range of 20 mm to 57 mm?
+Light antiaircraft artillery
+Antiaircraft machine guns
+Heavy antiaircraft artillery
+Medium aintiaircraft artillery
+* Light antiaircraft artillery
+
+Which system can be either towed or self-propelled, and a crew of three to four usually operates it?
+Antiaircraft machine guns
+Light antiaircraft artillery
+Medium antiaircraft artillery
+Heavy antiaircraft artillery
+* Light antiaircraft artillery
+
+Which antiaircraft artillery system has a caliber range of 75 mm to 130 mm
+Light antiaircraft artillery
+Antiaircraft machine guns
+Heavy antiaircraft machine guns
+Medium antiaircraft artillery
+* Medium antiaircraft artillery
+
+Which priority requires the casualty to be evacuated within four hours?
+Priority
+Routine
+Urgent
+Urgent surgical
+* Priority
+
+What information goes in line two of the medical evacuation (MEDEVAC) 9-Line form?
+Location
+Radio frequency and call sign
+Number of casualties
+Precedence
+* Location
+
+Which line of the medical evacuation (MEDEVAC) 9-Line form is used for marking the landing zone?
+Five
+Six
+Seven
+Eight
+* Seven
+
+Which line of the medical evacuation (MEDEVAC) 9-Line form identifies whether the landing zone is contaminated with nuclear biological chemicals (NBC) agents?
+Six
+Seven
+Eight
+Nine
+* Nine
+
+How many basic categories of frequency bands are primarily used by tactical air control parties?
+Three
+Four
+Five
+Six
+* Four
+
+What element does the Single Channel Ground and Airborne Radio System (SINCGARS) Electronic Set (ESET) contain?
+Cue frequency
+SINCGARS frequency hopping data
+Ground time of day
+Crypto key identification data
+* SINCGARS frequency hopping data
+
+What function does the lockout in the Single Channel Ground and Airborne Radio System (SINCGARS) LOADSET perform?
+Provides fixed channel frequency
+Provides inclusive channels for hopping
+Provides frequency to be skipped during hopping
+Provides cold start net operations
+* Provides frequency to be skipped during hopping
+
+All of the following items are required to operate on a HAVEQUICK net except
+net number
+time-of-day (TOD)
+word of day (WOD)
+electronic set (ESET)
+* electronic set (ESET)
+
+
+What is the complete frequency range on the AN/PRC-117F(C) radio?
+30 to 512 MHz
+2 to 512 MHz
+30 to 87.975 MHz
+30 to 399.975 MHz
+* 30 to 512 MHz
+
+What is the power output for the 400 to 512 MHz frequency range on the AN/PRC-117F(C) radio?
+1 to 5 watts
+1 to 10 watts
+1 to 15 watts
+1 to 20 watts
+* 1 to 10 watts
+
+Which function control switch position on the AN/PRC-117F(C) radio would you use to delete all crypto variable and transmission security keys
+OFF (radio off)
+CLR (clear)
+Z-ALL (zero-all)
+TD (time delay)
+* Z-ALL (zero-all)
+
+Which function control switch position on the AN/PRC-117F(C) radio would you use to electronically disconnect the hold-up battery?
+CLR (clear)" forState:UIControlStateNormal
+OFF (radio off)
+TD (time delay)
+CLR (clear)
+* CLR (clear)
+
+Which connector port on the AN/PRC-117F(C) radio would you use to connect the 30 MHz to 89.9999 MHz blade antenna?
+VHF Antenna
+AUDIO/DATA/FILL
+VHF/UHF antenna
+Accessory
+* VHF Antenna
+
+Which connector port on the AN/PRC-117F(C) radio is not used in the manpack configuration?
+VHF Antenna
+Accessory
+VHF/UHF antenna
+AUDIO/DATA/FILL
+*Accessory
+
+Which control button is also labeled as 'NET' on some AN/PRC-117F(C) radios?
+PGM
+CALL
+PRE
+CLR
+* PRE
+
+What position must the function switch be in on the AN/PRC-117F(C) radio prior to loading a fill from the AN/PYQ-10 Simple Key Loader (SKL)?
+PT
+CT
+RV
+LD
+* LD
+
+How many communication security (COMSEC) keys can the AN/PRC-117F(C) radio hold for each COMSEC type?
+25
+20
+15
+10
+* 25
+
+Once you have loaded a fill into the AN/PRC-117F(C) with the digital transfer device (DTD), what is the step prior to disconnecting the fill device from the AUDIO/DATA/FILL connector?
+Select the desired key type
+Turn off the DTD
+Turn off the power
+Rotate the radio's function switch from LD
+* Turn off the DTD
+
+Once you have loaded a fill into the AN/PRC-117(C) with a fill device, what is the last step of the process after you have turned off the fill device and disconnected it from the radio?
+Turn off the power
+Turn off the fill device power
+Rotate the radio's function switch from LD
+Select the desired key type
+* Rotate the radio's function switch from LD
+
+On the AN/PRC-117F(C) radio, which menu item (when entered) will automatically enter the proper satelite downlink and uplink frequencies?
+Communication security (COMSEC)
+NET TYPE
+DATA/VOC
+FREQ CODE
+* FREQ CODE
+
+Which communication security (COMSEC) type is for voice operation only for the AN/PRC-117(C) radio?
+FASCINATOR
+VINSON
+KG-84
+ANDVT
+* FASCINATOR
+
+Which communication security (COMSEC) type is for data operation only for the AN/PRC-117(C) radio?
+ANDVT
+KG-84
+FASCINATOR
+VINSON
+* KG-84
+
+What is the power level range for satelite communication (SATCOM) programming on the AN/PRC-117(C) radio?
+1 to 10 watts
+10 to 100 watts
+2 to 20 watts
+5 to 50 watts
+* 2 to 20 watts
+
+On the AN/PRC-117F(C) radio, how many authorized frequencies make up the training HAVEQUICK frequency management training FMT set?
+19
+18
+17
+16
+* 16
+
+What is the transmission power selection for HAVEQUICK operations on the AN/PRC-117F(C) radio?
+1 to 10 watts
+1 to 5 watts
+2 to 10 watts
+2 to 20 watts
+* 1 to 10 watts
+
+On the AN/PRC-117F(C) radio manpack, what is the maximum transmission power for the SINCGARS mode?
+10 watts
+20 watts
+30 watts
+40 watts
+* 10 watts
+
+When manually setting the global-time-of-day (GTOD) on the AN/PRC-117(C) radio, how many digits of the Julian date are entered for the day component of the time entry?
+All the digits
+The first two digits
+The last two digits
+the middle two digits
+* The last two digits
+
+When conducting preventative measures on your AN/PRC-117(C) radio set, how often should you replace the hold-up battery (HUB)?
+Daily
+Weekly
+Semi-annually
+Annually
+* Annually
+
+When conducting preventative measures on your AN/PRC-117(C) radio set, how often should you visually inspect the connectors for corrosion, damage, or looseness?
+Daily
+Weekly
+Monthly
+Annually
+* Weekly
+
+How many different types of troubleshooting methods are used on the AN/PRC-117(C)?
+One
+Two
+Three
+Four
+* Two
+
+What action should you take if you are receiving intermittent audio on the AN/PRC-117(C)?
+Check the keypad display unit cable
+Check the keypad display unit
+Clean handset connector
+Move radio set away from source of strong RF signal
+* Clean handset connector
+
+What is the frequency range of the PRC-117G
+12 MHz to 512 MHz
+30 MHz to 512 MHz
+12 MHz to 1999.9950 MHz
+30 MHz to 1999.9950 MHz
+* 30 MHz to 1999.9950 MHz
+
+What action may cause the AN/PRC-117G to transmit undesired transmission?
+Disconnecting fill device before switching from [LD]
+Initiating a self-test with cipher switch in citadel encryption (CC)
+Connecting fill device before rotating cipher switch to [LD]
+Pressing [ENT] before transmission encryption key is selected on the fill device
+* Disconnecting fill device before switching from [LD]
+
+What additional tagging is done in DS-101 protocol when loading a transmission encryption key in the AN/PRC-117G
+Short title
+Classification
+Platform type
+Date time stamp
+* Classification
+
+When loading the AN/PRC-117G with a communication security (COMSEC) transmission encryption key (TEK) using the simple key loader (SKL), after selecting all required keys and clicking OK what option would you select from the drop-down list?
+Radio
+MX-18290
+DS-102 protocol
+DS-101 protocol
+* DS-102 protocol
+
+When loading the AN/PRC-117G with a communication security (COMSEC) transmission encryption key using the simple key loader (SKL) after selecting the appropriate protocol on the simple key loader, what is the only settings that is used?
+Send wake up (5 Sec)
+Bus address (1011001)
+Baud rate (25k)
+"Active mode (KYK-13)
+* Active mode (KYK-13)
+
+On the AN/PRC-117G, what satelite communication (SATCOM) channel numbers would you use to access the channel programming screen in order to enter RX/TX frequencies?
+000, 001, or 998
+100, 101 or 998
+248, 249 or 999
+348, 349 or 999
+* 248, 249 or 999
+
+What number in a word of day (WOD) segment indicates the position for the day of the month (DOM)?
+15
+14
+02
+01
+* 14
+
+Which is not an option for the last two digits of a HAVEQUICK net?
+00
+50
+75
+25
+* 75
+
+On the AN/PRC-117G, which protocol should be used to electronically transfer the word of the day (WOD) using the simple key loader?
+MX-18290
+KYK-13
+DS-102
+DS-101
+* DS-101
+
+What are the keystrokes to access the HAVEQUICK menu that allows for creation or modification of HAVEQUICK presets?
+[PGM]>SYSTEM PRESETS>SYSTEM PRESET CONFIG
+[PGM]>SYSTEM PRESETS>VULOS CONFIG
+[PGM]>SYSTEM PRESETS>HAVEQUICK CONFIG
+[PGM]>SYSTEM PRESETS>WAVEFORM CONFIG
+* [PGM]>SYSTEM PRESETS>SYSTEM PRESET CONFIG"]
+
+When configuring HAVEQUICK TOD on the AN/PRC-117G if 00 is entered for either the month or day, what will the screen display?
+Frequency management training (FMT)
+Single word of the day (SWOD)
+Multiple word of the day (MWOD)
+Word of the day (WOD)
+*Single word of the day (SWOD)
+
+What location in the AN/PRC-117G SYSTEM PRESET CONFIG menu is the associated HOPSET assigned?
+HOPSET/LOCKOUT
+HOPSET LOCATION
+HOPSET COMPARTMENT
+TRAFFIC MODE
+* HOPSET COMPARTMENT
+
+When setting up the AN/PRC-117G for late net entry (LNE), what would cause the LNE to be disabled?
+Global position system (GPS) is noy syncing
+Radio is more then four seconds off
+Net master is not available
+Radio is set to master
+* Radio is set to master
+
+What does the warning message 'Fault Configuration Cleared' indicate on the AN/PRC-117G
+Indicates loss of all radio configuration, (COMSEC), and (TRANSEC) data
+Keys are not assigned to the preset
+RF board is temporarily or permanently rendered incapable of RX or TX on the currently loaded
+A hopping net was loaded, but no valid Hopset is programmed
+* Indicates loss of all radio configuration, (COMSEC), and (TRANSEC) data
+
+What type of electronic counter-countermeasure (ECCM) is the AN/PRC-117(C) not capable of?
+High frequency (HF) list
+Single Channel Ground and Airborne Radio System (SINCGARS)
+High frequency (HF) narrowband
+High frequency (HF) wideband
+* Single Channel Ground and Airborne Radio System (SINCGARS)
+
+Which position on the AN/PRC-150(C)'s function switch is not used?
+Z
+CT
+CC
+RV
+* CC
+
+When filling the AN/PRC-150(C) using the AN/CYZ-10 digital transfer device (DTD), what should you ensure the fill program is set to?
+KYK-13
+DTD
+DS-102
+DS-101
+* DS-101
+
+What are the absic characteristics of a radio net on the AN/PRC-150(C)?
+Channel number, frequency, modulation type and communication security (COMSEC)
+System channel, frequency, modulation type and COMSEC
+Channel number, sideband, frequency and COMSEC
+Compartment, data rate, spacing and COMSEC
+* Channel number, frequency, modulation type and communication security (COMSEC)
+
+What are the two places you have to go in order to program a radio net on the AN/PRC-150(C)?
+Type and system
+Preset and system
+Preset and default
+Type and default
+* Preset and system
+
+What is the shortest period that you should expect the AN/PRC-150(C)'s hold up battery (HUB) to last?
+12 months
+8 months
+4 months
+18 months
+* 4 months
+
+In test mode on the AN/PRC-150(C), what should you choose to test everything?
+Black/Red Data
+Complete
+Prepost
+System
+* System
+
+Which is not an option of the Defense Advanced GPS Receiver, if you press and hold down the WP/ENTER key?
+Edit a waypoint
+Mark a waypoint
+GOTO a waypoint
+Create a waypoint
+* Edit a waypoint
+
+How do you cancel an operation on the Defense Advanced GPS Receiver?
+Press and release the menu button
+Press and release the power button
+Press and hold the menu button
+Press and hold the power button
+* Press and release the power button
+
+What conditions should the off mode display heater be used on the Defense Advanced GPS Receiver?
+During transit
+To conserve power
+During extreme cold conditions
+During high glare environments
+* During extreme cold conditions
+
+What is one of the modes of operation on the Defense Advanced GPS Receiver?
+Initialize
+Practice
+Median
+Average
+* Average
+
+How do you mark present position on the Defense Advanced GPS Receiver?
+Push and hold ENTER key and select MARK
+Push and hold PAGE key and select MARK
+Push and hold MENU key and select MARK
+Push and hold F1 key and select MARK
+* Push and hold ENTER key and select MARK
+
+What does it mean if any of the Defense Advanced GPS Receiver fire support pages are blinking after range calculation?
+Danger close (>100 meters)
+Current position unavailable
+Invalid keystroke input
+Calculation error
+* Current position unavailable
+
+What page is displayed on the Defense Advanced GPS Receiver when the operator selects Navigate Route from the routes page menu?
+Main menu page
+Sky view page
+Nav pointer page
+Present position page
+* Nav pointer page
+
+Where is the distance button on the pocket laser range finder (PLRF-15C) located?
+The underside
+The left side
+The target's end
+The operator's end
+* The operator's end
+
+To perform a 12 point calibration on the PLRF-15C, point the device northwards and press the azimuth button four times until what is displayed?
+COMP
+CAL
+3dOn
+6Pt
+* COMP
+
+What will be displayed in the reticle of the PLRF-15C if the target is too small or inaccurately targetted?
+_--_
+----
+-__-
+---_
+* ----
+
+When the Multi-target indicator is illuminated on the Pocket Laser Range Finder and you want the range for the target furthest away from you, you rotate the switch to
+RANGE
+FIRST
+LAST
+TEST
+* LAST
+
+Which indicator illuminates in the eyepiece to ensure that the GLTD II laser is firing during mark operations
+AZ
+MLT
+EL
+XMT
+* XMT
+
+The Infrared Zoom Laser Illuminator/Designator 1000 multifunction laser illuminator/target designator emits a concentrated beam of invisible infrared radation which is class
+4 laser
+2 laser
+3 laser
+1 laser
+* 4 laser
+
+At high power, what are the pulses per second for the Infrared Zoom Laser Illumintaor/Designator 1000 on PULSE setting?
+5 to 7
+3 to 5
+7 to 9
+1 to 3
+* 3 to 5
+
+What is the distance along the axis of the unobstructed beam from a laser to the human eye beyond which the irradiance or radiant exposure is not expected to exceed the applicable maximum permissible exposure called?
+Nominal maximum permissible exposure
+Nominal skin hazard distance
+Nominal ocular hazard distance
+Optical density
+* Nominal ocular hazard distance
+
+Which is not one of the four safety devices that must be enabled before the Infrared Zoom Laser Illuminator/Designator will function?
+Arming plug or remote fire switch
+Mode select switch
+Fire switch or remote fire switch
+Yellow armed indicator light
+* Yellow armed indicator light
+
+What device is capable of seeing the Infrared Zoom Laser Illuminator/Designator 1000 beam?
+SNIPER POD
+LANTERN POD
+PAVEWAY II
+Thermal scope
+* SNIPER POD

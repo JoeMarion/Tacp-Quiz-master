@@ -1,0 +1,697 @@
+How many characters, not including prefixes or suffixes, make up an Air Force Specialty Code (AFSC)?
+Five
+Three
+Four
+Six
+* Five
+
+Which Air Force Specialty Code (AFSC) indicates the actual position you are assgined to in your unit?
+Primary
+Duty
+Control
+Temporary
+* Duty
+
+"Which Air Force Specialty Code (AFSC) is used as a management tool for assignments against authorized manning requirements?
+Control
+Primary
+Duty
+Temporary
+* Duty
+
+Which documents are used to decide which task and knowledge items are trained in the initial skills resident course?
+OSR and on-the-job training (OJT)
+TRA and CFETP
+OJT and career field education and training plan (CFETP)
+Occupational Survey Report (OSR) and Training Requirements Analysis (TRA)
+* Occupational Survey Report (OSR) and Training Requirements Analysis (TRA)
+
+What is the focus of on-the-job training (OJT)?
+Provide what you need to know to do your job
+Support the organization's mission
+Provide an opportunity to attend training
+Provide the resources to meet the training requirements
+* Provide what you need to know to do your job
+
+On-the-job (OJT) is also known as what type of training?
+One-on-one
+Over-the-shoulder
+Formalized
+Virtual and interactive
+* Over-the-shoulder
+
+What is the Air Force's goal pertaining to the Internet?
+Provide minimum availability at acceptable levels for official business
+Provide secure availability at acceptable levels for official business
+Provide maximum availability at acceptable levels for official business
+Eliminate spy-ware to protect official business
+* Provide maximum availability at acceptable levels for official business
+
+The Internet provides all of the following except a
+quick and efficient way of disseminating information to the public
+way of distributing information throughout the Air Force
+way of accessing information from a variety of sources
+secure means of communication
+* secure means of communication
+
+Which of the following makes monitoring or reading another individual's email messages illegal?
+Federal Wiretap Law
+Unit system administrator
+Operations security (OPSEC)
+Non-secure Internet Protocol Router Network
+* Federal Wiretap Law
+
+Who in your unit establishes an email account for you?
+Security manager
+Work group manager
+Computer systems manager
+Information management manager
+* Work group manager
+
+Which type of storage device has a small amount of storage space?
+External
+Internal
+Flash
+Shared
+* Flash
+
+What are the four lines called that enclose the body of a standard military map?
+Latitude
+Longitude
+Set
+Neat
+* Neat
+
+Lines of Latitude progress north and south of
+the international dateline
+Greenwich, England
+the prime meridian
+the Equator
+* the Equator
+
+The point where 180 degrees East longitude meets 180 degrees West longitude is called what?
+Greenwich, England
+The international dateline
+The prime meridian
+The Equator
+* The international dateline
+
+How many degrees is each line of latitude or longitude broken down into?
+45
+90
+180
+360
+* 360
+
+The first major breakdown of the Universal Transverse Mercator (UTM) grid is the division of each zone into areas of 6 degrees by 8 degrees and
+6 degrees by 8 degrees
+6 degrees by 10 degrees
+6 degrees by 12 degrees
+6 degrees by 14 degrees
+* 6 degrees by 12 degrees
+
+What is the combination of the zone number and the row letter called?
+Grid zone designation
+Grid zone identifier
+100,000 meter square identifier
+100,000 meter square designation
+* Grid zone designation
+
+On a military map, what are the two digits printed in large type that appear at intervals along the grid line?
+The central meridian
+The principal digits
+False coordinates
+Reference numbers
+* The principal digits
+
+A map grid coordinate scale is designed for the express purpose of
+plotting distance
+measuring distance
+plotting grid coordinates
+measuring coordinates
+* plotting grid coordinates
+
+On the 1:250,000 scale in the military grid reference system, the 1,000 meter grid block is divided into 10 major subdivisions equal to how many meters each?
+100
+1,000
+10,000
+100,000
+* 100
+
+In the military grid reference system, the 1:5-,000 scale subdivides the 1,000-meter grid block into 10 major subdivisions equal to how many meters each?
+100
+1,000
+10,000
+100,000
+* 100
+
+Which map grid coordinate is accurate to within one meter?
+1484
+142841
+14178409
+1416884087
+*1416884087
+
+What does the Global Area Reference System (GARS) provide over other geographical grid reference systems?
+Single military service use
+Precision for employing guided weapons
+Common joint service reference system
+Complex language for effective communications
+* Common joint service reference system
+
+The Global Area Reference System (GARS) was the first global reference system developed for
+navigating
+executing close air support
+detailed targeting
+deconflicting
+* deconflicting
+
+What number and letter combination, in sequence, does the Global Area Reference System (GARS) use to identify an area anywhere in the world?
+Three numbers and two letters
+Two numbers and three letters
+Three letters and two numbers
+Two letters and three numbers
+* Three numbers and two letters
+
+The Global Area Reference System (GARS) uses a base line that starts at the
+North Pole and Prime Meridian
+South Pole and International Dateline
+South Pole and Prime Meridian
+North Pole and International Dateline
+* South Pole and International Dateline
+
+Which letter is omitted in the latitudinal band (northwards) of the Global Area Reference System (GARS)?
+X
+J
+I
+Y
+* I
+
+What represents the age of the topographical ma, in relation to other editions of the same map, and the agency responsible for its production?
+Sheet name
+Sheet number
+Series number
+Edition number
+* Edition number
+
+The basis for converting topographic map distance to ground distance is the
+bar scale
+grid note
+contour interval
+Edition number
+* bar scale
+
+On a topographical map, where do you find the information pertaining to the grid system used, the interval lines, and the number of digits omitted from the grid values?
+Legend
+Grid note
+Special notes
+Grid reference box
+* Grid note
+
+On a topographical map, you find information for composing a grid reference in the
+Special notes
+Declination diagram
+Grid reference box
+Legend
+* Grid reference box
+
+Where on a topographical map would you find information on the angular relationships of true north, grid north, and magnetic north?
+Bar scale
+Legend
+Special notes
+Declination diagram
+* Declination diagram
+
+What color is used on a topographical map to indicate most cultural or manmade features?
+Black
+Brown
+Orange
+Red
+* Black
+
+What color is used for joint operations graphics on a topographical map, to indicate air-ground operations?
+Brown
+Purple
+Green
+Red
+* Purple
+
+You are using topographic symbold on a map and determine that the width of a road is exagerated. When this happens it means that the
+road is reduced in size around the feature to preserve its location
+feature is reduced in size to preserve the width of the road
+feature moves from its true position to preserve its relation to the road
+road is offset around the feature next to the road
+* feature moves from its true position to preserve its relation to the road
+
+What type of terrain/relief feature on a topographic map slopes down in all directions?
+Ridge
+Draw
+Valley
+Hill
+* Hill
+
+An example of the detailed information the Joint Operations Graphic (JOG) air series maps contain is
+radio ranges
+cities
+water ways
+road systems
+* radio ranges
+
+What does the large, open-faced figure in each 15-minute quadrangle of a Joint Air Operations (JOG) air map represent?
+Location of the nearest airfield
+Highest terrain elevation
+Coordinates for nearest airfield
+Location of the highest terrain elevation
+* Highest terrain elevation
+
+What type of information does the Joint Operations Graphic (JOG) ground series map identify?
+Radio towers only
+Improvised air facilities
+Permanent air facilities
+Radio towers and ranges
+* Permanent air facilities
+
+How many parts, on a tactical map, do military symbols generally consist of?
+Four
+Five
+Six
+Seven
+* Six
+
+In relation to the basic symbol, where would you place the unit size symbol on a tactical map?
+Above
+Below
+Left
+Right
+* Above
+
+On a tactical map, place higher echelons of command
+above the basic symbol
+to the right of the basic symbol
+to the left of the basic symbol
+below the basic symbol
+* to the right of the basic symbol
+
+On a tactical map, military symbols represented in yellow mean
+enemy units, installations, equipment, and activities
+friendly or enemy manmade obstacles
+friendly or enemy areas of chemical, biological, or radiological contamination
+friendly units, installations, equipment, and activities
+* friendly or enemy areas of chemical, biological, or radiological contamination
+
+Military symbols represented in green on a tactical map mean
+friendly or enemy areas of chemical, biological, or radiological contamination
+friendly units, installations, equipment and activities
+enemy units, installations, equipment, and activities
+friendly or enemy manmade obstacles
+* friendly or enemy manmade obstacles
+
+To avoid compass readings interference when using lensatic compass, how many meters from a tank is the suggested safe operating distance?
+18
+55
+10
+5
+* 18
+
+How many meters from barbed wire is the suggested safe operating distance, while using a lensatic compass?
+55
+10
+18
+5
+* 10
+
+What map feature enables you to orient a map properly and shows the interrelationship of magnetic, grid, and true north?
+Military plotting diagram
+Grid reference diagram
+Declination diagram
+Military lensatic compass
+* Declination diagram
+
+When orienting a map, what is an imaginary line from any surface position to the North Pole?
+Magnetic north
+Grid north
+Declination
+True north
+* True north
+
+When orienting a map, the direction of the north magnetic pole indicated by the north-seeking needle of a magnetic instrument is the
+magnetic north
+true north
+declination
+grid north
+* magnetic north
+
+When orienting a map, true north is symbolized by
+the letters GN or Y
+a star
+a diamond
+a half arrowhead
+* a star
+
+When using a compass for navigation, a pace count takes you approximately how many paces to reach 100 meters?
+40 to 70
+50 to 80
+60 to 90
+70 to 100
+* 50 to 80
+
+When navigating with a compass, the traingulation of an unknown point from at least two or three known points on a map is called a/an
+deliberate offset
+resection
+bisection
+intersection
+* intersection
+
+When using a compass to navigate, you can locate your unknown point by sighting on two or more known features using
+resection
+bisection
+intersection
+deliberate offset
+* resection
+
+At 1,000 meters each degree of deliberate offset moves you how many meters to the left or right of an object?
+6
+12
+18
+24
+* 18
+
+Which factor of good microphone techniques deals with the extent of background noise?
+Pronunciation
+Rate of speech
+Loudness
+Patterns of speech
+* Loudness
+
+When the receiving radio operator gets a loud signal, it means the signal
+is more readable
+is easier to tune
+requires less adjustment on the audio gain
+is not always the most readable
+* is not always the most readable
+
+To speak into a microphone, hold it
+about half an inch from your lips and speak at a normal level
+directly against your lips and speak at a normal level
+about 2 inches from your mouth and speak clearly
+* about half an inch from your lips and speak at a normal level
+
+All of the following are points you should follow for effective Voice communication except
+speaking slowly enough to pronounce each word clearly and distinctly
+pausing slightly between words so the listener has time to write down the message
+speaking slowly enough for the listener to hear and understand all the words
+pausing slightly between ideas, but do not say 'uh' or 'er' to fill in the pauses
+* pausing slightly between words so the listener has time to write down the message
+
+Radio messages transmitted idea by idea rather than word by word
+requires a higher volume setting
+is more likely to be garbled
+is more easily understood
+should be avoided
+* is more easily understood
+
+You transmit a lengthy message containing encoded groups. How many groups should you transmit before making a short break in transmission?
+5
+10
+15
+20
+* 10
+
+In which time zone is the Greenwich Meridian located?
+Z
+D
+M
+Y
+* Z
+
+When you are working eastward from Greenwich, local time gets
+earlier by 1 hour
+later by 1 hour
+earlier by 2 hours
+later by 2 hours
+* later by 1 hour
+
+What letter is omitted from the alphabetized time zones A through M?
+L
+I
+J
+M
+* J
+
+Which radio transmission practice is specifically forbidden?
+Excessive transmitter power use
+Transmitting at speeds beyond the capability of the receiving operators
+Excessive time consumed in tuning, changing frequencies, and adjusting equipment
+Unofficial conversation between operators
+* Unofficial conversation between operators
+
+The authority to cancel an emergency radio silence lies with the
+authority that imposed it
+communications officer
+ground commander
+signals officer
+* authority that imposed it
+
+Two authorized methods of authenticating are 'challenge and reply' and
+decrypt
+transmission
+encrypt
+encode* transmission
+
+What statement, if any, must appear in the encoding transmission to prevent confusion with eight-digit coordinates and grid zone designators?
+Eight-digit coordinates included
+Six-digit coordinates included
+Grid zone letters included
+No statement is required
+* Grid zone letters included
+
+Radio deception that simulates units, installations, and activities is called
+Manipulative
+Intrusive
+Imitative
+Simulative
+* Simulative
+
+Which basic jamming technique consists of a narrow signal intended to disrupt one specific frequency or channel?
+Spot
+Barrage
+Constant
+Sweepthrough
+* Spot
+
+Which basic jamming technique consists of a wideband signal intended to cause chaos on a wideband of frequencies or adjacent channels?
+Spot
+Barrage
+Constant
+Sweepthrough
+* Barrage
+
+Which basic jamming technique consists of a signal concentrated on a single frequency only a short time?
+Constant
+Spot
+Sweepthrough
+Barrage
+* Sweepthrough
+
+Which modulating jamming signal sounds like an aircraft engine?
+Spark
+Random noise
+Stepped tones
+Sweepthrough
+* Sweepthrough
+
+Which modulating jamming technique is the most difficult to distinguish?
+Random noise
+Spark
+Stepped tones
+Sweepthrough
+* Random noise
+
+What are the two types of field meaconing, intrusion, jamming, and interference (MIJI) reports?
+First and second
+Initial and follow up
+Initial and final
+First and follow up
+* Initial and follow up
+
+Within how many hours of the initial meaconing, intrusion, jamming, and interference (MIJI report must you submit a complete follow up report containing all details of the incident?
+6
+8
+12
+24
+* 12
+
+The physical size, construction details, and appearance of an antenna primarily depend on
+how many stations will be on the same frequency
+the amount of radiation energy from the radio
+the antenna location
+how the antenna is used
+* how the antenna is used
+
+What should you do if you are in a room beside an electrical outlet with degraded communications?
+Change frequencies
+Move the radio to another room
+Move radio to the roof
+Move the radio to another location in the same room
+* Move the radio to another location in the same room
+
+The more efficient an antenna is for transmitting, the more efficient it will be for receiving. Which antenna characteristic does this describe?
+Resonance
+Reciprocity
+Take off angle
+Gain
+* Reciprocity
+
+The radio ground-wave component affected by the conductivity and dielectric constant of the Earth is called
+direct
+sky
+surface
+ground-reflected
+* surface
+
+The zone where no usable signal is received from a given transmitting antenna is called
+Blank
+Dead
+Hop
+Skip
+* Skip
+
+How many distinct layers make up the ionosphere?
+Three
+Four
+Five
+Six
+* Four
+
+Which radio frequency (RF) range uses the ground wave for communications from 15 to 400 miles and the sky wave for reception at distances up to 8,000 miles?
+Low
+Medium
+High
+Ultra-high
+* Medium
+
+Which radio frequency (RF) range uses the ground wave for communicating over great distances?
+Low
+Medium
+High
+Ultra-high
+* Low
+
+Which radio frequency (RF) range uses little ground wabe for communcations with only slight refraction of the sky waves?"
+Low
+Medium
+High
+Ultra-high
+* High
+
+If the lines of electric force are prallel to the surface of the Earth, the radio wave is polarized
+vertically
+elliptically
+horizontally
+directionally
+* vertically
+
+Which type of antenna is least likely to pick up manmade interference?
+Vertical
+Horizontal
+Blade
+Whip
+* Horizontal
+
+Earth ground is a good conductor for what type of radio frequency (RF)?"
+Low and high
+Medium and high
+Low and medium
+Low and high
+* Low and medium
+
+When properly repairing a solid core whip antenna, do not overlap the broken ends by more than a few inches because you can degrade the antennas
+insulation
+magnetic field
+polarization
+electrical length
+* electrical length
+
+What determines the angle of radiation required for both transmitting and receiving antennas?
+Distance between stations
+Antenna gain required
+Handling capability
+Physical size
+* Distance between stations
+
+By using a high gain antenna at transmitter and receiver sites, you reduce
+circuit loss
+transmitter power
+electrical antenna length
+physical antenna length
+* transmitter power
+
+What type of injury can you get from high levels of radio frequency (RF) energy sent from an antenna?
+Cell damage
+Nerve damage
+Radiation burns
+Electrical burns
+* Radiation burns
+
+What type of equipment is used with the whip antenna?
+Set
+Unchanging
+Fixed
+Portable
+* Portable
+
+How does a vehicle affect the operation of a mounted whip antenna?
+Provides a ground
+Obstructs the radiated circuit
+Provides proper take-off angle
+Reduces the radiation efficiency
+* Provides a ground
+
+For best results, at least how many feet above the ground should you place the ends of the inverted Vee antenna?
+2
+4
+6
+8
+* 6
+
+Use the near verticle incidence sky wave (NVIS) antenna within megahertz (MHz) frequencies of
+2.0 to 14.0
+2.0 to 29.0
+14.0 to 24.9
+14.0 to 29.9
+* 2.0 to 29.0
+
+What is the most commonly used field expediently constructed antenna?
+Vee
+Inverted L
+Inverted Vee
+Half wave dipole
+* Half wave dipole
+
+Which field expedient antenna is equipped with a quarter-wave vertical section and a half-wave horizontal section
+Inverted L
+Inverted Vee
+Sloping Vee
+Half wave dipole
+* Inverted L
+
+When terminated, what is the directivity of the long wire antenna?
+Bi-directional
+Uni-directional
+Directional
+Omni-directional
+* Uni-directional
+
+Where on the Vee antenna would you find the maximum radiation pattern?
+Rear or point
+Right side
+Opening
+Left side
+* Opening
+
+What is the directivity of the Vee antenna?
+Bi-directional
+Omni-directional
+Directional
+Uni-directional
+* Uni-directional
